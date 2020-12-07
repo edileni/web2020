@@ -1,0 +1,29 @@
+/* selector de tipo */
+div {
+    font-size: 130%;
+    color: grey;
+    border: solid 1px black;
+
+}
+
+/* selector de div*/
+#primero {
+    background-color: tomato;
+}
+
+#segundo {
+    background-color: lightblue;
+}
+
+#tercero {
+    background-color: lightgrey;
+}
+
+/* selector clase */
+.centrado {
+    text-align: center;
+}
+
+.color-rojo {
+    color: red;
+}
