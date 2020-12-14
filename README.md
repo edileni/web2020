@@ -1,4 +1,7 @@
-# Mi primer repositorio web2020
-Este repositorio es para Practicar HTML y CSS
+#Bienvenidos a mi sitio web
 
-Con este repositorio voy aprender los lenguajes usados en la web.
+hola! Soy edilenia Minyaya
+
+Accede al siguiente link para que veas mi proyecto de vida
+
+[Miproyecto de vida](https://edileni.github.io/web2020/proyecto-vida)
