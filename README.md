@@ -1,6 +1,6 @@
 # Bienvenidos a mi sitio web
 
-Hola! Soy Edilenia Minaya
+Hola! Soy Edilenia Maria Minaya
 
 Accede al siguiente link para que veas mi proyecto de vida
 
